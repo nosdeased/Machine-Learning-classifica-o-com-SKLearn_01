@@ -1,19 +1,19 @@
-# Treinar algoritmos;
+Treinar algoritmos;
 
-# Definir características (features) do que desejamos classificar;
+Definir características (features) do que desejamos classificar;
 
-# Classificar em categorias;
+Classificar em categorias;
 
-# Utilizar o módulo linearSVC e accuracy_score;
+Utilizar o módulo linearSVC e accuracy_score;
 
-# Utilizar o método fit;
+Utilizar o método fit;
 
-# Prever dados com a função predict;
+Prever dados com a função predict;
 
-# Calcular a taxa de acerto do modelo;
+Calcular a taxa de acerto do modelo;
 
-# Comparar testes e previsões;
+Comparar testes e previsões;
 
-# Utilizar a função soma;
+Utilizar a função soma;
 
-# Padronizar variáveis
+Padronizar variáveis
